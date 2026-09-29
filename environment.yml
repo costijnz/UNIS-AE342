@@ -1,0 +1,15 @@
+name: unis_met
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - netcdf4
+  - scipy
+  - jupyterlab
+  - cartopy
